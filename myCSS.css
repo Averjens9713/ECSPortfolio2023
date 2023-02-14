@@ -23,7 +23,7 @@ a:hover, a:active, a:focus {
 	margin: 0 auto;
 }
 .header {
-	background: #85D49D;
+	background: #FDFDFF;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -49,7 +49,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .footer {
-	background: #BA90D1;
+	background: #FDFDFF;
 	margin: 0px;
 	float: left;
 	width: 100%;
